@@ -16,3 +16,4 @@ Suggests: BiocStyle, knitr,testthat,rmarkdown,markdown
 Imports: httr, httpuv, stringi,jsonlite,methods,utils
 biocViews: Annotation
 RoxygenNote: 6.1.1
+Config/Bioconductor/UnsupportedPlatforms: macosx-arm64
